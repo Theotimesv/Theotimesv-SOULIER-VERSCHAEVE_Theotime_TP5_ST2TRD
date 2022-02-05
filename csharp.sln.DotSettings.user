@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=278b6ce1_002D45c1_002D4ee8_002Dafa3_002D07dbf698832d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="foo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.foo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.AgedBrie_quality_should_not_exceed_50_when_a_day_ends&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.AgedBrie_quality_should_increase_when_quality_inferior_to_50&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.AgedBrie_SellIn_should_decrease_when_SellIn_superior_to_1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Dexterity_Vest_quality_should_not_decrease_when_quality_equals_to_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Dexterity_Vest_quality_should_decrease_when_quality_superior_to_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Dexterity_Vest_quality_should_decrease_twice_when_quality_superior_to_0_and_SellIn_equald_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Sulfuras_quality_should_not_change_when_a_day_ends&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Concert_ticket_quality_should_increase_by_2_change_when_SellIn_Between_10_and_5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Concert_ticket_quality_should_increase_by_1_when_SellIn_superior_to_10&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Concert_ticket_quality_should_increase_by_3_when_SellIn_between_5_and_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Concert_ticket_quality_should_be_0_when_SellIn_reached_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::176C0214-9136-4079-8DAB-11D7420C3881::.NETFramework,Version=v4.5.2::csharp.GildedRoseTest.Object_quality_should_decrease_twice_when_Conjured&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::79212B23-1D84-4811-BABE-14F71439A4B0::.NETFramework,Version=v4.7.2::GuildedRose.Test.GildedRoseQualityTest.Dexterity_Vest_quality_should_decrease_when_quality_superior_to_0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::79212B23-1D84-4811-BABE-14F71439A4B0::.NETFramework,Version=v4.7.2::GuildedRose.Test.GildedRoseQualityTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::79212B23-1D84-4811-BABE-14F71439A4B0::.NETFramework,Version=v4.7.2::GuildedRose.Test.GildedRoseSellInTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
